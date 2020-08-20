@@ -87,7 +87,7 @@ namespace RestaurantDetails
                 // Decrypt the password
                 UserPassword = DecryptMd5Hash(UserPassword);
                 string senderID = "graphicpass01@gmail.com"; // use sender’s email id here..
-                string senderPassword = "mohansairam"; //sender password here…
+                string senderPassword = "xxxxxxxxxx"; //sender password here…
 
                 // Call smtp constructor for using all the functions in smtp
                 //Simple Mail Transfer Protocol, a protocol for sending e-mail messages between servers.
